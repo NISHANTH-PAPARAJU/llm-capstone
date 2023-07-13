@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set OpenAI credentials
-openai.api_key = "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"
+openai.api_key = "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"
 
 def get_drug_recommendations(user_input):
     # Implement your logic to get drug recommendations based on user_input
